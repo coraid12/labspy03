@@ -29,16 +29,16 @@
 
 # Latihan 2
 
-1. Langkah pertama mengisi variable yang akan di inputkan bebas:
+1. Langkah pertama masukan variable yang akan di inputkan bebas:
 
-array = []
-total = 0
-n = int(input("Masukkan banyaknya elemen array: "))
+- array = []
+- total = 0
+- n = int(input("Masukkan banyaknya elemen array: "))
 
-2. Langkah kedua lansung kita masukan statment:
+2. Langkah kedua masukan statment:
 
-for x in range(n):
-    nilai = float(input("Masukkan bilangan ke-{} : ".format(x+1)))
-    array.append(nilai)
-    if nilai == 0 :
-         break
+- for x in range(n):
+    - nilai = float(input("Masukkan bilangan ke-{} : ".format(x+1)))
+    - array.append(nilai)
+    - if nilai == 0 :
+         - break
