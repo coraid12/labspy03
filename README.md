@@ -24,3 +24,4 @@ for i in range(start,stop,step):
     print("Data ke:",i,"=>",(a))
     
     # Hasilnya
+![lat01](https://user-images.githubusercontent.com/56239989/68085468-fa90d280-fe73-11e9-84b5-a0c46022a927.jpg)
