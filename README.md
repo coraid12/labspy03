@@ -1,3 +1,4 @@
+# Tugas Pemrograman
 # Latihan 1
 
 1. Langkah pertama menginputkan penyebutnya :
@@ -49,3 +50,5 @@
 
 # Hasil latihan 2
 ![lat02](https://user-images.githubusercontent.com/56239989/68085630-83f4d480-fe75-11e9-980c-553e07db57b6.jpg)
+
+# Program 1
