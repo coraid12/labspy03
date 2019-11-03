@@ -52,3 +52,25 @@
 ![lat02](https://user-images.githubusercontent.com/56239989/68085630-83f4d480-fe75-11e9-980c-553e07db57b6.jpg)
 
 # Program 1
+
+1.Langkah pertama inputkan variabel modal,laba,dan untung ,sebagai berikut:
+
+- modal = 100000000
+- laba = 0
+- untung = 0 
+
+2.Selanjutnya masukan prosessnya :
+
+- for i in range(1,9,1):
+       if(i<3):
+        laba = 0
+        untung = untung + laba
+       elif(i<5):
+        laba = modal*1/100
+        untung = untung + laba
+       elif(i<8):
+        laba = modal*5/100
+        untung = untung + laba
+       else:
+        laba = modal*2/100
+        untung = untung + laba
