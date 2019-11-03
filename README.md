@@ -15,9 +15,7 @@ step = 1
 4. Lalu masukan Statment for i in range(start, stop, step):
 
 for i in range(start,stop,step):
-
-    if(1 % 0.5):
-    
+    if(1 % 0.5):   
         continue
         
 5. Agar angka yang dimasukan random masukan:
