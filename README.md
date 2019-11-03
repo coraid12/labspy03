@@ -61,7 +61,7 @@
 
 2.Selanjutnya masukan prosessnya :
 
-- for i in range(1,9,1):
+ for i in range(1,9,1):
        - if(i<3):
        - laba = 0
        - untung = untung + laba
