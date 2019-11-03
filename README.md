@@ -65,12 +65,12 @@
        - if(i<3):
        - laba = 0
        - untung = untung + laba
-       - elif(i<5):
+      - elif(i<5):
        - laba = modal*1/100
        - untung = untung + laba
-       - elif(i<8):
+      - elif(i<8):
        - laba = modal*5/100
        - untung = untung + laba
-       - else:
+      - else:
        - laba = modal*2/100
        - untung = untung + laba
