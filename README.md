@@ -75,7 +75,7 @@
 - laba = modal*2/100
 - untung = untung + laba
 
-! penjelasan : 
+Penjelasan -  
 for x in range(1,9,1" = Perulangan i dengan nilai pertama 1, nilai terakhir 9 dan step 1).
 if = Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
 elif = Dan Jika kondisi lainnya berbeda maka jalankan program.
