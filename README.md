@@ -20,8 +20,7 @@ for i in range(start,stop,step):
         
 5. Agar angka yang dimasukan random masukan:
 
-    from random import random
-    
+    from random import random 
     a = random()
 
 6. Yang terakhir cetaklah variable menggunakan:
