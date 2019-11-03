@@ -21,6 +21,7 @@ for i in range(start,stop,step):
 5. Agar angka yang dimasukan random masukan:
 
     from random import random 
+    
     a = random()
 
 6. Yang terakhir cetaklah variable menggunakan:
@@ -29,3 +30,20 @@ for i in range(start,stop,step):
     
     # Hasilnya
 ![lat01](https://user-images.githubusercontent.com/56239989/68085468-fa90d280-fe73-11e9-84b5-a0c46022a927.jpg)
+
+
+# Latihan 2
+
+1. Langkah pertama mengisi variable yang akan di inputkan bebas:
+
+array = []
+total = 0
+n = int(input("Masukkan banyaknya elemen array: "))
+
+2. Langkah kedua lansung kita masukan statment:
+
+for x in range(n):
+    nilai = float(input("Masukkan bilangan ke-{} : ".format(x+1)))
+    array.append(nilai)
+    if nilai == 0 :
+         break
