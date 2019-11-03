@@ -81,3 +81,6 @@ Penjelasan :
 - if = Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
 - elif = Dan Jika kondisi lainnya berbeda maka jalankan program.
 - else = Selain tidak ada suatu kondisi yang terpenuhi maka jalankan program.
+
+# Hasil Program 1
+![prg1](https://user-images.githubusercontent.com/56239989/68086145-25325980-fe7b-11e9-9f0c-e99b46fb0bde.jpg)
