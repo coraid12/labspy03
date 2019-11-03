@@ -41,7 +41,7 @@
     - nilai = float(input("Masukkan bilangan ke-{} : ".format(x+1)))
     - array.append(nilai)
     - if nilai == 0 :
-         -- break
+     - break
 
 3. Langkah Terakhir print menggunakan:
 
