@@ -23,7 +23,7 @@
 
     - print("Data ke:",i,"=>",(a))
     
-    # Hasil Latihan 1
+# Hasil Latihan 1
 ![lat01](https://user-images.githubusercontent.com/56239989/68085468-fa90d280-fe73-11e9-84b5-a0c46022a927.jpg)
 
 
@@ -47,4 +47,5 @@
 
 - print("\nHasil bilangan terbesar adalah: {}".format(max(array)))
 
-    # Hasil latihan 2
+# Hasil latihan 2
+![lat02](https://user-images.githubusercontent.com/56239989/68085630-83f4d480-fe75-11e9-980c-553e07db57b6.jpg)
